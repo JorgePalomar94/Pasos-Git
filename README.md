@@ -1,1 +1,3 @@
 # Pasos-Git
+
+## Algunos comandos
